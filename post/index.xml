@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Academic Theme</title>
-    <link>http://replace-this-with-your-website-url.com/post/</link>
+    <link>https://horgix.github.io/post/</link>
     <description>Recent content in Posts on Academic Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Fri, 13 May 2016 14:19:02 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-website-url.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://horgix.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>test</title>
-      <link>http://replace-this-with-your-website-url.com/post/test/</link>
+      <link>https://horgix.github.io/post/test/</link>
       <pubDate>Fri, 13 May 2016 14:19:02 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/post/test/</guid>
+      <guid>https://horgix.github.io/post/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math Example</title>
-      <link>http://replace-this-with-your-website-url.com/post/math-example/</link>
+      <link>https://horgix.github.io/post/math-example/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/post/math-example/</guid>
+      <guid>https://horgix.github.io/post/math-example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;An example mathematical expression rendered from $\rm \LaTeX$ math code:
@@ -42,10 +42,10 @@ $$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \
     
     <item>
       <title>Programming Example</title>
-      <link>http://replace-this-with-your-website-url.com/post/example-post/</link>
+      <link>https://horgix.github.io/post/example-post/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://replace-this-with-your-website-url.com/post/example-post/</guid>
+      <guid>https://horgix.github.io/post/example-post/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;# Example of code highlighting
